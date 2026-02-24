@@ -80,9 +80,9 @@ AI-аналіз — це інструмент підтримки рішень м
 
 ```json
 {
-  "score": 0.78,
+  "score": 0.55,
   "recommendation": "transfer_to_sales",
-  "reason": "lead has high activity and clear business domain"
+  "reason": "The lead has reached the qualified stage with 9 communications and a specified business domain, indicating genuine interest. However, the scanner source typically yields lower intent compared to inbound channels, moderating the overall score."
 }
 ```
 
